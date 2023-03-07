@@ -3,7 +3,7 @@ select.input-error {
   border: 2px solid red;
 }
 
-p.error {
+.error {
   color: red;
 }
 
